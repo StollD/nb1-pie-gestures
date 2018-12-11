@@ -1,0 +1,7 @@
+id=nb1-pie-gestures
+name=Nokia 8 Pie Gestures
+version=v1
+versionCode=1
+author=Dorian Stoll
+description=Enables gesture navigation on Android Pie for Nokia 8
+minMagisk=17000
